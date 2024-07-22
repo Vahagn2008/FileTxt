@@ -1,0 +1,3 @@
+Vahagn,Dallakyan,2008,50
+Harutyun,Harutyunyan,2009,60
+Max = Vahagn Dallakyan
